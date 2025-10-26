@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "price": 899,
+      "currency": "INR",
+      "sku": "WM-001",
+      "status": "draft",
+      "version": 1,
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    }
+  ],
+  "auth": [
+    { "id": 1, "username": "admin", "password": "admin", "role": "admin" },
+    { "id": 2, "username": "editor", "password": "editor", "role": "editor" },
+    { "id": 3, "username": "viewer", "password": "viewer", "role": "viewer" }
+  ]
+}
